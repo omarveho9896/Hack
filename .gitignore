@@ -1,2 +1,6 @@
 # remove backup FontLab Studio source files
 *.vfbak
+#cd
+#ls /home/user/
+cd add ..
+
